@@ -1,4 +1,5 @@
 mod data_structure;
+mod string;
 
 fn main() {
     println!("Hello, algo-lib-rust!");
