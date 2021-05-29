@@ -1,3 +1,8 @@
+/*
+    Union-Find Tree
+    グループ分けを木構造で管理する。
+*/
+
 pub struct UnionFind {
     parents: Vec<usize>,
     size: Vec<usize>,
