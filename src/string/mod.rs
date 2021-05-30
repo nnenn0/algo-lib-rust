@@ -1,1 +1,1 @@
-pub mod run_length_encoding;
+pub mod run_length_encode;
